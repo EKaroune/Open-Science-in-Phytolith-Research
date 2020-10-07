@@ -68,6 +68,7 @@ Please feel free to get in touch with Emma by email or on twitter.
 *Here’s some other stuff to read:*
 * Contributor’s guidelines - currently in development so please email Emma for more details.
 * Roadmap
+* Code of conduct
 
 
 ## Thank you
