@@ -68,7 +68,7 @@ Please feel free to get in touch with Emma by email or on twitter.
 *Here’s some other stuff to read:*
 * Contributor’s guidelines - currently in development so please email Emma for more details.
 * Roadmap
-* Code of conduct
+* [Code of conduct](https://github.com/EKaroune/Open-Science-in-Phytolith-Research/commit/91cd08326afd7bf42b7dee682541845e44cf8485)
 
 
 ## Thank you
