@@ -62,12 +62,12 @@ Please feel free to get in touch with Emma by email or on twitter.
 ## Find out more
 
 *You might be interested in:*
-Assessing open science practices in phytolith research - [pre-print.](https://osf.io/fa7q3/)
-Data paper from assessing open science in phytolith research - [article.](http://doi.org/10.5334/joad.67)
+* Assessing open science practices in phytolith research - [pre-print.](https://osf.io/fa7q3/)
+* Data paper from assessing open science in phytolith research - [article.](http://doi.org/10.5334/joad.67)
 
 *Here’s some other stuff to read:*
-Contributor’s guidelines - currently in development so please email Emma for more details.
-Roadmap
+* Contributor’s guidelines - currently in development so please email Emma for more details.
+* Roadmap
 
 
 ## Thank you
