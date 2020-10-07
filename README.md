@@ -7,9 +7,9 @@ Thanks for visiting the Open Science in Phytolith Research project repository. I
 In this document you can find lots of information about this project. You can just scroll down or use the quick links below for each section.
 
 * [What is this project about and why is it important?](#what-is-this-project-about-and-why-is-it-important?)
-* [Who are we?](#who-are-we?)
-* [What do we need?](#what-do-we-need?)
-* [How can you get involved?](#how-can-you-get-involved?)
+* [Who are we?](#who-are-we)
+* [What do we need?](#what-do-we-need)
+* [How can you get involved?](#how-can-you-get-involved)
 * [Get in touch](#get-in-touch)
 * [Find out more](#find-out-more)
 * [Glossary](#glossary)
