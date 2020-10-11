@@ -1,3 +1,10 @@
+---
+layout: default
+title: 2. Roadmap
+nav_order: 2
+has_children: false
+---
+
 # Roadmap for Open Science in Phytolith Research
 
 **Here are the milestones that I am currently working towards:**
