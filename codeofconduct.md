@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 3. Code of conduct
+title: Code of conduct
 nav_order: 3
 has_children: false
 ---
