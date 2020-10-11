@@ -1,3 +1,10 @@
+---
+layout: default
+title: 3. Code of conduct
+nav_order: 3
+has_children: false
+---
+
 # Code of conduct
 This project values the participation of every member of our community and wants to ensure that every contributor has an enjoyable and fulfilling experience. Accordingly, everyone who participates in the Open Science in Phytolith Research project is expected to show respect and courtesy to other community members at all times.
 
