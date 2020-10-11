@@ -1,3 +1,10 @@
+---
+layout: default
+title: Open Science in Phytolith Research
+nav_order: 1
+has_children: false
+---
+
 # Open Science in Phytolith Research
 ***Let’s make phytolith research better by moving into the era of open science!***
 
