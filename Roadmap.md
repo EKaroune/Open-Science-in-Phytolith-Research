@@ -10,10 +10,12 @@ has_children: false
 **Here are the milestones that I am currently working towards:**
 
 ## Milestone 1: Raising awareness through talks/blogs - short term
+
 ### Talks:
 * Association of Environmental Archaeology (AEA) autumn webinar series on sustainability – 15th September 2020 6pm BST.
 * Palaeopercs early career online series – Tuesday 24th November 2020 3pm GMT.
 * AEA Open Science Spring meeting – Saturday 24th April 2021.
+
 ### Blogs:
 * Find locations for potential blogs and contact organisations – British Ecological Society (PalaeoSIG), International Phytolith Society (IPS), Mentoring women and Archaeology and Heritage (MWAH).
 * Write blogs for different organisations.
