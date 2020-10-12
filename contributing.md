@@ -17,4 +17,4 @@ If you want to contribute to this project, discuss something with me, make sugge
 
 You can also look at the [issues](https://github.com/EKaroune/Open-Science-in-Phytolith-Research/issues) on github and make a comment.
 
-If you are not sure how to use github, here is a [good tutorial to get you started](https://cassgvp.github.io/git-for-collaborative-documentation/)
+If you are not sure how to use github, here is a [good tutorial to get you started](https://cassgvp.github.io/git-for-collaborative-documentation/).
