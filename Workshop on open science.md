@@ -14,5 +14,5 @@ In the meantime, check out these resources that I find really helpful for learni
 * [FOSTER training courses in open science](https://www.fosteropenscience.eu/) - free courses on all aspects of open science 
 * [Open Science Talk podcast](https://site.uit.no/ub/) - this is about all aspects of open science.
 * [Centre for Open Science website](https://www.cos.io/) - lots of resources and information to read as well as links to using Open Science Framework.
-* [Open Scholarship Knowledge base](https://www.oercommons.org/hubs/OSKB) - more resources for learning about different aspepcts of open science.
+* [Open Scholarship Knowledge Base](https://www.oercommons.org/hubs/OSKB) - more resources for learning about different aspepcts of open science.
 
