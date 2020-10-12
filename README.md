@@ -15,7 +15,7 @@ In this document you can find lots of information about this project. You can ju
 * [Glossary](#glossary)
 
 ## What is this project about and why is it important?
-This project comes from the issues found in my recent research project to assess open science practices in phytolith research ([https://osf.io/qp68n/]). My assessment found a general lack of use of open science practices, especially concerning reusable data sharing. The sharing of data and metadata was found to need improvement, and this can only be done with collaboration from researchers in this field. There is also a need to improve open access to publications for all so that our research community is more inclusive.
+This project comes from the issues found in my recent research project to [assess open science practices in phytolith research](https://osf.io/qp68n/). My assessment found a general lack of use of open science practices, especially concerning reusable data sharing. The sharing of data and metadata was found to need improvement, and this can only be done with collaboration from researchers in this field. There is also a need to improve open access to publications for all so that our research community is more inclusive.
 
 ### The problem
 * Lack of awareness of open science in phytolith research.
