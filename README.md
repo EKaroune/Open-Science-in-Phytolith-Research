@@ -75,16 +75,16 @@ Please feel free to get in touch with Emma by email or on twitter.
 Thanks for taking the time to read this project page and do please get involved.
 
 ## Glossary
-* **Phytoliths**: microscopic silica bodies formed in living plant cells.
-* **Open Science**: the movement to make scientific research (including publications, data, physical samples, and software) transparent and accessible to all.
-* **Open access**: the practice through which research outputs are distributed online, free of cost or other access barriers. 
-* **Pre-print**: a version of a scientific paper that precedes formal peer review and publication in a scientific journal.
 * **Data paper**: is a peer reviewed document describing a dataset, published in a peer reviewed journal. It makes datasets more findable and accessible.
+* **Issue**: the GitHub term for tasks, enhancements, and bugs for your projects.
+* **Milestone**: an event or state marking a specific stage in development on the project.
+* **Open access**: the practice through which research outputs are distributed online, free of cost or other access barriers. 
+* **Open Science**: the movement to make scientific research (including publications, data, physical samples, and software) transparent and accessible to all.
+* **Phytoliths**: microscopic silica bodies formed in living plant cells.
+* **Pre-print**: a version of a scientific paper that precedes formal peer review and publication in a scientific journal.
 * **README file**: a document that introduces an open project to the public and any potential contributors.
 * **Repository or repo**: a collection of documents related to your project, in which you create and save new code or content.
 * **Roadmap**: a document outlining the schedule of work to be done on a project.
-* **Milestone**: an event or state marking a specific stage in development on the project.
-* **Issue**: the GitHub term for tasks, enhancements, and bugs for your projects.
 
 ## License:
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
