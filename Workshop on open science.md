@@ -7,7 +7,7 @@ has_children: false
 
 # Workshop on Open Science
 
-***Coming soon - here you will soon find details of a workshop that is being run to introduce some of the aspects of open science for phytolith researchers, environmental archaeologists and palaeoecologists***
+***Coming soon - here you will soon find details of a workshop that is being run to introduce some of the aspects of open science for phytolith researchers, environmental archaeologists and palaeoecologists***.
 
 Please check out a newly released chapter in *The Turing Way* about '[Getting started with Github'](https://the-turing-way.netlify.app/collaboration/github-novice.html). This has step by step instructions on how to get started with a new collaborative project. 
 
