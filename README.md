@@ -1,7 +1,7 @@
 # Open Science in Phytolith Research
 ***Let’s make phytolith research better by moving into the era of open science!***
 
-## Welcome
+## Welcome to my project
 Thanks for visiting the Open Science in Phytolith Research project repository. It’s great that you are taking an interest in this project and therefore in making our research community more open and transparent. :leaves: :ear_of_rice: :palm_tree:
 
 In this document you can find lots of information about this project. You can just scroll down or use the quick links below for each section.
